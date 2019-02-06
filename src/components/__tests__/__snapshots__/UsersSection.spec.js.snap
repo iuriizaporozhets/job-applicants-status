@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UsersSection >  should match snapshot 1`] = `
+<div
+  className="sc-bdVaJa fgokpF"
+>
+  <header />
+  <article>
+    <div
+      className="className sc-EHOje dUkynP"
+    >
+      <header>
+        <div
+          className="sc-bxivhb jYKomR"
+        >
+          <img
+            src="https://randomuser.me/api/portraits/med/women/18.jpg"
+          />
+        </div>
+        <div
+          className="sc-ifAKCX grIVrs"
+        >
+          Abbie Mckinney
+        </div>
+      </header>
+      <footer
+        className="sc-bwzfXH liwCWi"
+      >
+        <button
+          className="sc-htpNat zrnKk"
+          onClick={[Function]}
+        >
+          →
+        </button>
+      </footer>
+    </div>
+  </article>
+</div>
+`;

@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filter >  should match snapshot 1`] = `
+<div
+  className="className"
+>
+  <select
+    onChange={[Function]}
+  >
+    <option
+      value="NAME"
+    >
+      Name
+    </option>
+    <option
+      value="CITY"
+    >
+      City
+    </option>
+  </select>
+  <input
+    onChange={[Function]}
+    type="text"
+  />
+</div>
+`;
