@@ -2,17 +2,17 @@ import React from 'react';
 import styled from 'styled-components';
 
 const UsersSection = (props) => {
-    const {className, headerTitle, children} = props;
-    return (
-        <div className={className}>
-            <header>
-                {headerTitle}
-            </header>
-            <article>
-                {children}
-            </article>
-        </div>
-    );
+	const {className, headerTitle, children} = props;
+	return (
+		<div className={className}>
+			<header>
+				{headerTitle}
+			</header>
+			<article>
+				{children}
+			</article>
+		</div>
+	);
 };
 
 const UsersSectionStyled = styled(UsersSection)`

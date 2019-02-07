@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserCard >  should match snapshot 1`] = `
+<div
+  className="className sc-ifAKCX ebFgfC"
+>
+  <header>
+    <div
+      className="sc-bxivhb jYKomR"
+    >
+      <img
+        src="https://randomuser.me/api/portraits/med/women/96.jpg"
+      />
+    </div>
+    <div
+      className="sc-bdVaJa hNlrIX"
+    >
+      <div>
+        Martha Taylor
+      </div>
+      <div
+        className="user-city"
+      >
+        Londonderry
+      </div>
+    </div>
+  </header>
+  <footer
+    className="sc-bwzfXH liwCWi"
+  >
+    <button
+      className="forward-button sc-htpNat hvivgI"
+      onClick={[Function]}
+    >
+      →
+    </button>
+  </footer>
+</div>
+`;

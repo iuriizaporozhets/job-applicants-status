@@ -11,23 +11,30 @@ exports[`UsersSection >  should match snapshot 1`] = `
     >
       <header>
         <div
-          className="sc-bxivhb jYKomR"
+          className="sc-ifAKCX hgCPcW"
         >
           <img
-            src="https://randomuser.me/api/portraits/med/women/18.jpg"
+            src="https://randomuser.me/api/portraits/med/women/96.jpg"
           />
         </div>
         <div
-          className="sc-ifAKCX grIVrs"
+          className="sc-bwzfXH cPnoVV"
         >
-          Abbie Mckinney
+          <div>
+            Martha Taylor
+          </div>
+          <div
+            className="user-city"
+          >
+            Londonderry
+          </div>
         </div>
       </header>
       <footer
-        className="sc-bwzfXH liwCWi"
+        className="sc-htpNat kMBLBy"
       >
         <button
-          className="sc-htpNat zrnKk"
+          className="forward-button sc-bxivhb bmDszj"
           onClick={[Function]}
         >
           →

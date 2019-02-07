@@ -3,6 +3,6 @@ import { usersReducer } from './users.reducer';
 import { filterReducer } from './filter.reducer';
 
 export const rootReducer = combineReducers({
-    users: usersReducer,
-    filter: filterReducer
+	users: usersReducer,
+	filter: filterReducer
 });
